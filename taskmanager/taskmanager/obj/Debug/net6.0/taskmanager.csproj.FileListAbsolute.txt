@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\taskmanager\taskmanager\bin\Debug\net6.0\taskmanager.exe
+C:\Users\HP\source\repos\taskmanager\taskmanager\bin\Debug\net6.0\taskmanager.deps.json
+C:\Users\HP\source\repos\taskmanager\taskmanager\bin\Debug\net6.0\taskmanager.runtimeconfig.json
+C:\Users\HP\source\repos\taskmanager\taskmanager\bin\Debug\net6.0\taskmanager.dll
+C:\Users\HP\source\repos\taskmanager\taskmanager\bin\Debug\net6.0\taskmanager.pdb
+C:\Users\HP\source\repos\taskmanager\taskmanager\obj\Debug\net6.0\taskmanager.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\taskmanager\taskmanager\obj\Debug\net6.0\taskmanager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\taskmanager\taskmanager\obj\Debug\net6.0\taskmanager.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\taskmanager\taskmanager\obj\Debug\net6.0\taskmanager.AssemblyInfo.cs
+C:\Users\HP\source\repos\taskmanager\taskmanager\obj\Debug\net6.0\taskmanager.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\taskmanager\taskmanager\obj\Debug\net6.0\taskmanager.dll
+C:\Users\HP\source\repos\taskmanager\taskmanager\obj\Debug\net6.0\refint\taskmanager.dll
+C:\Users\HP\source\repos\taskmanager\taskmanager\obj\Debug\net6.0\taskmanager.pdb
+C:\Users\HP\source\repos\taskmanager\taskmanager\obj\Debug\net6.0\taskmanager.genruntimeconfig.cache
+C:\Users\HP\source\repos\taskmanager\taskmanager\obj\Debug\net6.0\ref\taskmanager.dll
+C:\Users\HP\source\repos\taskmanager\taskmanager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\taskmanager\taskmanager\obj\Debug\net6.0\taskmanager.csproj.CopyComplete
